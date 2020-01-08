@@ -1,0 +1,29 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cyd.txt                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: vokrut <vokrut@student.42.fr>              +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/30 19:56:10 by vokrut            #+#    #+#              #
+#    Updated: 2019/04/30 20:17:32 by vokrut           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+0. vokrut
+
+1. I've already improved my knowledge in C and getting understanding about 
+    planning software development, planning my own day in order to be as much
+    efficient as I can. And, after beeing at 42 I can see my future as
+    a software developer.
+
+2. Learn how to learn.
+
+3. In 12 months I see myself joining a start-up or a big company such as Google or
+    Facebook as part of its team. 
+
+4. At 42 I can leave in the dorm and use labs space, labs computers in order to
+    get more experienced in coding.
+
+5. I'm going to do the school projects further in order to reach level 7 and
+    be able to apply to interships.
